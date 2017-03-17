@@ -1,0 +1,48 @@
+
+h1{ 
+	color: blue;
+	font-size: 30px;
+}
+
+h2{
+	color: pink;
+	font-family: Arial black;
+	font-size: 20px;
+}
+
+h3{
+	color: green;
+	font-family: Helvetica;
+	font-size: 24px
+}
+table{
+	background-color: teal;
+}
+
+#social-buttons button {
+color: white;
+}
+
+.btn-twitter {
+
+background-color: #00acee;
+
+border-color: #009ad5;
+
+}
+
+.btn-facebook {
+
+background-color: #4868ac;
+
+border-color: #314776;
+
+}
+
+.btn-pinterest {
+
+background-color: #b62f26;
+
+border-color: #b62f26;
+
+}
