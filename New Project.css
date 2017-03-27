@@ -4,13 +4,12 @@
 	background-size: cover;
 }
 
-h1 {
-  vertical-align: middle;
-}
+
 
 h1{ 
 	color: blue;
 	font-size: 30px;
+	vertical-align: middle;
 }
 
 h2{
