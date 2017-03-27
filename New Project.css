@@ -1,4 +1,13 @@
 
+.jumbotron{
+	background-image: url('cherry-blossoms.jpg');
+	background-size: cover;
+}
+
+h1 {
+  vertical-align: middle;
+}
+
 h1{ 
 	color: blue;
 	font-size: 30px;
