@@ -2,21 +2,21 @@
 .jumbotron{
 	background-image: url('cherry-blossoms.jpg');
 	background-size: cover;
+	text-align: center;
+    height: 100vh;
 }
 
-
-
-h1{ 
-	color: blue;
-	font-size: 30px;
-	vertical-align: middle;
+h1.main-heading {
+    color: white;
+    font-size: 12vw;
+    text-shadow: 5px 5px 20px #a24;
+}
+h2.main-subheading {
+   color: white;
+   font-size: 6vw;
+text-shadow: 4px 4px 12px #363;
 }
 
-h2{
-	color: pink;
-	font-family: Arial black;
-	font-size: 20px;
-}
 
 h3{
 	color: green;
@@ -28,6 +28,7 @@ table{
 }
 
 #social-buttons button {
+
 color: white;
 }
 
